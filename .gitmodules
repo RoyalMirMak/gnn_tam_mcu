@@ -1,0 +1,3 @@
+[submodule "gnn-tam"]
+	path = gnn-tam
+	url = https://github.com/RoyalMirMak/gnn-tam.git
